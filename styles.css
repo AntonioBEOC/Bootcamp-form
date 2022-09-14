@@ -23,6 +23,11 @@ input[type=text] {
 	margin-bottom: 15px;
 }
 
+input[type=number] {
+	height: 20px;
+	margin-bottom: 15px;
+}
+
 input[type=submit], input[type=submit]:hover {
 	padding-top: 10px;
 	padding-bottom: 10px;
